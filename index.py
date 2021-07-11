@@ -13,7 +13,7 @@ import requests
 import json
 
 auth_refresh_url = ''
-sckey = ''
+sckey = 'SCU125912Tea3c67d52932a8ee8fbacc30c5a06a675facd045a1968'
 
 ftqq_url = "https://sc.ftqq.com/%s.send"%(sckey)
 #两个签到
